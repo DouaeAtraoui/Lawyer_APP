@@ -23,7 +23,7 @@ function HomeSection() {
                     />
                 </div>
 
-                <Link to='/Files'><button type='button' className='addFile-btn'>إضافة ملف جديد</button></Link>
+                <Link to='/إضافة'><button type='button' className='addFile-btn'>إضافة ملف جديد</button></Link>
             </div>
 
         </div>
